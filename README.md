@@ -38,8 +38,9 @@ Queue Bot is a Discord bot designed to manage a queue system within a Discord se
 
     ```json
     {
-        "token": "YOUR_DISCORD_BOT_TOKEN",
-        "mongoUri": "YOUR_MONGODB_URI"
+        "token": "YOUR DISCORD TOKEN",
+        "mongoUri": "YOUR MONGODB URI",
+        "clientId": "YOUR CLIENT ID"
     }
     ```
 
