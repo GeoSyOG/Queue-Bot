@@ -1,0 +1,5 @@
+{
+    "token": "YOUR DISCORD TOKEN",
+    "mongoUri": "YOUR MONGODB URI",
+    "clientId": "YOUR CLIENT ID"
+}
