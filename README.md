@@ -75,4 +75,4 @@ Clears the entire queue.
 #### `/queue`
 Displays the current queue.
 
-https://discord.gg/anon
+https://discord.gg/prestige2k24
