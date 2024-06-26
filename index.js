@@ -45,8 +45,6 @@ async function main() {
         client.once('ready', async () => {
             console.log('Ready!');
              const totalMembers = client.guilds.cache.reduce((acc, guild) => acc + guild.memberCount, 0);
-            // client.user.setActivity({
-            // });
             let status = [
                 {
                     name: 'over ' + totalMembers + ' members',
